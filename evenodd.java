@@ -1,5 +1,5 @@
-if(no%4=!0){
-	printf("number is even odd");
+if(no%2!=0){
+	printf("number is odd");
 }else{
-	printf("number is odd even");
+	printf("number is even");
 }
